@@ -74,7 +74,8 @@ Trade details are sent to the Share Exchange for execution via a message queue (
    6.TradeService reports the trade status to the user.
    7.Monitoring captures logs for auditing and system health checks.
    
+![img](https://github.com/user-attachments/assets/5f9a4a5f-208a-4b0a-b08d-0f1485c95681)
 
 
-![img.png](img.png)
+
 Miro Link: https://miro.com/app/board/uXjVKgZDR_s=/?moveToWidget=3458764599732233473&cot=14
