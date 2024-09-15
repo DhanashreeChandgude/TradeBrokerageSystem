@@ -78,4 +78,3 @@ Trade details are sent to the Share Exchange for execution via a message queue (
 
 
 
-Miro Link: https://miro.com/app/board/uXjVKgZDR_s=/?moveToWidget=3458764599732233473&cot=14
